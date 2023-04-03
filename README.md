@@ -1,0 +1,2 @@
+# animotto
+A MERN project.
